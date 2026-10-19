@@ -1,0 +1,4 @@
+[flake8]
+ignore = E302,E305,W292
+# 指定检查的文件/目录（可根据需求调整）
+paths = app.py,tests/
